@@ -3,8 +3,8 @@
 **TEAM MEMBERS** 
 * Melissa Ventura-Parra
 * Brianne Guerrero
-* Taeyonne 
-* Alex
+* Taeyonn Reynolds 
+* Alex Gutierrez
 
 ## Purpose:
 Fill in our mission
