@@ -21,4 +21,4 @@ Our github contains a pdf of our presentation which details what we wanted to do
 
 Our code extracts the "Shapefile" directly from the website and opens it into Google Colab, however if you want to download the zip folder onto your computer, you can then upload it into Google Colab
 with the following:
-![GoogleColab.jpg](GoogleColab.jpg)
+![GoogleColab.JPG](GoogleColab.JPG)
