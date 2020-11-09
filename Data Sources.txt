@@ -1,9 +1,0 @@
-https://oraapp.doe.k12.ga.us/ows-bin/owa/fte_pack_frl001_public.entry_form
-
-https://opendata.fcc.gov/Consumer/CGB-Consumer-Complaints-Data/3xyp-aqkj
-
-https://gisdata.fultoncountyga.gov/datasets/8d4ffdff19f6419e83b4021020487e6a_427?geometry=-97.904%2C29.395%2C-68.263%2C35.866
-
-https://opendata.atlantaregional.com/datasets/broadband-access
-
-https://broadband.georgia.gov/maps/map-data
