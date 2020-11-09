@@ -6,6 +6,8 @@
 * Brianne Guerrero
 * Taeyonn Reynolds 
 * Alex Gutierrez
+* Edgar Garza
+* John Holly
 
 ## Purpose:
 To help schools grades K-12 in Atlanta notice where their students might need more internet access based on their location and internet speed 
